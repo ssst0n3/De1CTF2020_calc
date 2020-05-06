@@ -51,3 +51,7 @@ def get_flag(target):
 if __name__ == '__main__':
     get_flag("106.52.164.141")
 ```
+
+## 4. other writeups
+I am ashamed that there are more detailed writeups written by players. you can find here:
+https://ctftime.org/task/11491
