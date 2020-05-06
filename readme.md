@@ -6,7 +6,7 @@ Please calculate the content of file /flag http://106.52.164.141
 ## 2. design document
 I found there are many difference between spel's grammar and java's grammar. For example, in spel we can use 1.class to get the class java.lang.Integer, but in java, we cannot.
 
-I want to design a challenge to let ctfers discovery these difference. And we can construct a more complicated reflection chain instead of the copy the payload from the internet directly.
+I want to design a challenge to let ctfers discovery these difference and construct a more complicated reflection chain instead of the copy the payload from the internet directly.
 
 So, i use two technology to forbide normal payloads.
 
